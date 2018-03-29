@@ -1,0 +1,63 @@
+body {
+  align-items:center;
+  background-color:#6441a5;
+}
+
+
+body, html {
+  width: 100%;
+  height: 100%;
+  color:#6441a5;
+  /*text-shadow: 2px 2px 2px white ;*/
+}
+.container{
+  max-width: 800px;
+}
+
+
+.menu{
+  background-color:white;
+  color:#6441a5;
+  border-bottom: solid #6441a5 2px;
+  margin-top: 30px;
+  font-family: Bangers;
+  font-size: 50px;
+}
+
+a:link, a:visited, .text-right{
+  background-color:white;
+  color:#6441a5;
+  font-family: Sanchez;
+  font-size: 15px;
+}
+
+.users{
+  background-color: white;
+  color:#6441a5;
+}
+
+ .footer{
+  height:50px;
+  background-color:white;
+  color:#6441a5;
+  border-top: solid #6441a5 2px;
+  font-family: Sanchez;
+}
+
+button{
+  border-radius: 0;
+  background-color: white;
+  color:#6441a5;
+  width:65px;
+}
+
+button:hover {
+  color:black !important;
+  width:66px !important;
+}
+
+.img-fluid{
+  max-height: 40px;
+  border-radius: 100%;
+
+}
